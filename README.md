@@ -4,8 +4,8 @@
 Find me at:
 
 <p align="center">
-  <a href="mailto:jose@hyliandev.com">
-    <img src="https://img.shields.io/badge/jose@hyliandev.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="jose@hyliandev.com"/>
+  <a href="mailto:josemmoya@outlook.com">
+    <img src="https://img.shields.io/badge/josemmoya@outlook.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="josemmoya@outlook.com"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/josemoyab">
